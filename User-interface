@@ -1,0 +1,6 @@
+https://github.com/Itsmahinisback/User-interface.git
+pkg install mpv
+cd User-interface
+bash install.sh
+
+
